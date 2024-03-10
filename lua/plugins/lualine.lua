@@ -7,3 +7,4 @@ return {
     require('lualine').setup()
   end
 }
+
